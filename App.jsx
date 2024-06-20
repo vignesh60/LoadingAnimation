@@ -35,23 +35,5 @@ const App = () => {
   )
 }
 
-
-/* drag ='x' dragConstraints={{left:50}} */
-/* transition={{type: 'tween', duration: 2}} */
-/* transition={{type: 'spring', bounce: 0}}  */
-
-{/* <section className="example_container">
-    <motion.div 
-    animate={{ scale: 1, x: move ? 100 : -100}} 
-    initial={{scale: 0}}
-    transition={{type: 'spring', bounce: 0}} 
-    
-    onClick={() => {
-      setRotaion(!move)
-    }}
-    className='motion'>
-    </motion.div>
-    </section> */}
-
 export default App
 
